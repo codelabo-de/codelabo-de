@@ -45,4 +45,4 @@ WindowsアプリやWebアプリ、Minecraft風ゲームなどを作っていま�
 
 食べ物が命です 🍜🍔🍟
 ![Followers](https://img.shields.io/github/followers/codelabo-de?style=for-the-badge)
-![Views](https://komarev.com/ghpvc/?username=ユーザー名&style=for-the-badge)
+![Views](https://komarev.com/ghpvc/?username=coedelabo-de&style=for-the-badge)
