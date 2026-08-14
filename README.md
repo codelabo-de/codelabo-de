@@ -1,48 +1,11 @@
-# こんにちは 👋😆
+# こんにちは😊
+私は"codelabo-de"です😊
+私は、Python開発、C++、C#、Javascript、htmlなどのコーディングを行っています。
 
-ぼくは **Codelabo-de** です！
-
-HTML・CSS・JavaScriptが好きで、
-WindowsアプリやWebアプリ、Minecraft風ゲームなどを作っています！ 💻✨
-
----
-
-## 🚀 作っているもの
-
-* 🌐 HTMLだけで完結するサイト
-* 🎮 Three.jsを使った3Dゲーム
-* 💾 MS-DOS風ブラウザOS
-* 📦 Minecraft Bedrock Addon
-* 🔥 WhiteHacker系研究プロジェクト
-
----
-
-## 🛠 好きなもの
-
-* Visual Studio 2022
-* VSCode
-* Windows 11
-* JavaScript
-* C++
-* Minecraft
-* ChatGPT
-
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=ユーザー名\&show_icons=true)
-
----
-
-## 🌟 メッセージ
-
-「この一つの操作で、世界は変わり果てるだろう。」
-
----
-
-## 🍔 Food Power
-
-食べ物が命です 🍜🍔🍟
-![Followers](https://img.shields.io/github/followers/codelabo-de?style=for-the-badge)
-![Views](https://komarev.com/ghpvc/?username=coedelabo-de&style=for-the-badge)
+![C++ icon](https://img.icons8.com/?size=256&id=40669&format=png)
+![JavaScript Icon](https://img.icons8.com/?size=256&id=108784&format=png) etc..
+# Github Followers etc..
+![GitHub followers](https://img.shields.io/github/followers/codelabo-de?style=for-the-badge&label=Followers)
+![Profile views](https://komarev.com/ghpvc/?username=codelabo-de&style=for-the-badge&label=Profile%20Views)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codelabo-de&show_icons=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codelabo-de)
